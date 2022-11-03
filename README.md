@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 😎 - Trying to make fetch happen
   
  I'm currently a Computer Science undergrad at Manipal Institute of Technology, Bangalore.  
- You can reach me at <a href = "https://www.instagram.com/mohanamisra/"><img src = "images/instagram.png"/></a>
+ You can reach me at <a href = "https://www.instagram.com/mohanamisra/"><img src = "images/instagram.png" alt = "Instagram icon" width = "21px"/></a>
