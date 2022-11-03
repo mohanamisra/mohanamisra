@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 😎 - Trying to make fetch happen
   
  I'm currently a Computer Science undergrad at Manipal Institute of Technology, Bangalore.  
- You can reach me at     <a href = "https://www.instagram.com/mohanamisra/"><img src = "images/instagram.png" alt = "Instagram icon" width = "27px"/></a>      ,      <a href = "https://twitter.com/mohanamisra"><img src = "images/twitter.png" alt = "Twitter icon" width = "27px"/></a>      and      <a href = "https://mail.google.com/mail/?view=cm&source=mailto&to=[iammohanamisra@gmail.com]"><img src = "images/gmail.png" alt = "Gmail icon" width = "27px"/></a>
+ #### You can reach me at         <br><br><a href = "https://www.instagram.com/mohanamisra/"><img src = "images/instagram.png" alt = "Instagram icon" width = "27px"/></a>                <a href = "https://twitter.com/mohanamisra"><img src = "images/twitter.png" alt = "Twitter icon" width = "27px"/></a>                    <a href = "https://mail.google.com/mail/?view=cm&source=mailto&to=[iammohanamisra@gmail.com]"><img src = "images/gmail.png" alt = "Gmail icon" width = "27px"/></a>
