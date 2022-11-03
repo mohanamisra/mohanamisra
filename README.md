@@ -1,5 +1,5 @@
-# Hey there. I'm Mohana Misra.  
-## When I'm not busy writing absolutely charming README's, I am :- 
+# Hey there. I am Mohana Misra.  
+## When I'm not busy writing absolutely charming README's, I'm :- 
 
 <!--
 **mohanamisra/mohanamisra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 📈 - Solving coding problems  
 🤓 - Refactoring  
 🪲 - Pretending a bug is a feature  
-🥷 - Browsing tech articles and catching up on tech news (did you HEAR what he said? :shock:)  
 🏫 - Being a Computer Science undergrad at Manipal Institute of Technology, Bangalore.  
 😎 - Trying to make fetch happen  
 <br>
