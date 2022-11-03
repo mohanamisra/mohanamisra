@@ -1,5 +1,5 @@
 # Hey there. I'm Mohana Misra.  
-## When I'm not busy writing charming README's, I am :- 
+## When I'm not busy writing absolutely charming README's, I am :- 
 
 <!--
 **mohanamisra/mohanamisra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 - Squinting at code in Java, C, and Javascript  
+💻 - Squinting pointedly at code in Java, C, and Javascript  
 📈 - Solving coding problems  
-🪲 - Pretending a bug is a feature  
 🤓 - Refactoring  
+🪲 - Pretending a bug is a feature  
 🥷 - Browsing tech articles and catching up on tech news (did you HEAR what he said? :shock:)  
-😎 - Trying to make fetch happen
-  
- I'm currently a Computer Science undergrad at Manipal Institute of Technology, Bangalore.  
- #### You can reach me at         <br><br><a href = "https://www.instagram.com/mohanamisra/"><img src = "images/instagram.png" alt = "Instagram icon" width = "27px"/></a>                <a href = "https://twitter.com/mohanamisra"><img src = "images/twitter.png" alt = "Twitter icon" width = "27px"/></a>                    <a href = "https://mail.google.com/mail/?view=cm&source=mailto&to=[iammohanamisra@gmail.com]"><img src = "images/gmail.png" alt = "Gmail icon" width = "27px"/></a>
+🏫 - Being a Computer Science undergrad at Manipal Institute of Technology, Bangalore.  
+😎 - Trying to make fetch happen  
+<br>
+<br>
+ #### You can reach me at         <br><br><a href = "https://www.instagram.com/mohanamisra/"><img src = "images/instagram.png" alt = "Instagram icon" width = "27px"/></a>                <a href = "https://twitter.com/mohanamisra"><img src = "images/twitter.png" alt = "Twitter icon" width = "27px"/></a>                    <a href = "https://mail.google.com/mail/?view=cm&source=mailto&to=iammohanamisra@gmail.com"><img src = "images/gmail.png" alt = "Gmail icon" width = "27px"/></a>  
+ #### If you wish to, that is.  
+   
+#### Signing off for now...
