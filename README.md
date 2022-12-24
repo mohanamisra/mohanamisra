@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 - Squinting pointedly at code in Java, C, and Javascript  
+💻 - Squinting pointedly at code in Java, C, Javascript and Kotlin.  
 📈 - Solving coding problems  
 🤓 - Refactoring  
 🪲 - Pretending a bug is a feature  
