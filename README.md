@@ -1,5 +1,5 @@
 # Hey there. I am Mohana Misra.  
-## When I'm not busy writing absolutely charming README's, I'm :- 
+## When I'm not busy writing absolutely charming README's, I'm probably:- 
 
 <!--
 **mohanamisra/mohanamisra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 - Squinting pointedly at code in Java, C, Javascript, Python and Kotlin.  
-📈 - Solving coding problems  
-🤓 - Refactoring  
-🪲 - Pretending a bug is a feature  
-🏫 - Being a Computer Science undergrad at Manipal Institute of Technology, Bangalore.  
-😎 - Trying to make fetch happen  
+💻 - Squinting pointedly at code in Javascript or Python ||  
+🤓 - Refactoring ||  
+🪲 - Pretending a bug is a feature ||  
+🎬 - Sobbing at a Pixar movie ||  
+🏫 - Being a Computer Science undergrad at Manipal Institute of Technology, Bangalore  
 <br>
-<br>
- #### You can reach me at         <br><br><a href = "https://www.instagram.com/mohanamisra/"><img src = "images/instagram.png" alt = "Instagram icon" width = "27px"/></a>                <a href = "https://twitter.com/mohanamisra"><img src = "images/twitter.png" alt = "Twitter icon" width = "27px"/></a>                    <a href = "https://mail.google.com/mail/?view=cm&source=mailto&to=iammohanamisra@gmail.com"><img src = "images/gmail.png" alt = "Gmail icon" width = "27px"/></a>  
- #### If you wish to, that is.  
+ ### Feel free to reach me at         <br><br><a href = "https://www.instagram.com/mohanamisra/"><img src = "images/instagram.png" alt = "Instagram icon" width = "37px"/></a>                <a href = "https://twitter.com/mohanamisra"><img src = "images/twitter.png" alt = "Twitter icon" width = "37px"/></a>                    <a href = "https://mail.google.com/mail/?view=cm&source=mailto&to=iammohanamisra@gmail.com"><img src = "images/gmail.png" alt = "Gmail icon" width = "37px"/></a>  
    
-#### Signing off for now...
+#### Signing off for now... hope all your divs get centered!
